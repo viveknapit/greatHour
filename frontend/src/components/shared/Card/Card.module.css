@@ -1,0 +1,21 @@
+.card{
+    color: white;
+    width: 500px;
+    max-width: 80%;
+    min-height: 300px;
+    /* max-height: 80%; */
+    background: #1D1D1D;
+    border-radius: 20px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.headingWrapper{
+    
+}
+.heading{
+    font-size: 2rem;
+    font-weight: bold;
+}

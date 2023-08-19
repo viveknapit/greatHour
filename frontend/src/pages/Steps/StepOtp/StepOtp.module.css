@@ -1,0 +1,15 @@
+.cardWrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1rem;
+}
+.actionButtonWrap{
+    margin-top: 40px;
+}
+.conditionPara{
+    width: 80%;
+    color: #C4C5C5;
+    margin: 0 auto;
+    margin-top: 20px;
+}

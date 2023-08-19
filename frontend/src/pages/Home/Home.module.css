@@ -1,0 +1,20 @@
+
+.text{
+    font-size: 1.5rem;
+    line-height: 1.5;
+    color: #C4C5C5;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.cardwrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3.5rem;
+}
+.signinWrapper{
+    margin-top: 1.2rem;
+}
+.hadVisited{
+    color: #0083a1;
+}
